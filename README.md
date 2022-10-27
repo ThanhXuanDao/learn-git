@@ -1,2 +1,2 @@
 Initial project
-Add description
+This is for learning git
